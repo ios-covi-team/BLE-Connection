@@ -1,5 +1,25 @@
-MIT License
+# BLE-Connection iOS
 
+## Features
+- This BLE SDK for iOS provides a framework for iOS developers to develop Bluetooth 4.0 Low Energy (aka BLE) Apps easily using a simeple TXRX Service for exchanging data. It is based on Apple's CoreBluetooth framework.
+
+- Search Device with service UUID define in the app
+- Connection to any device support BLE 4.0 above
+- Transmit data and receive data from device BLE
+
+## Support
+- For iOS devices, only device support BLE 4.0 above.
+- iOS Deployment target 10.0 and above
+
+## Installation
+---- Manual ----
+- Just drag the HudFramework.framework to your project.
+- Import the HudFramework module to class you want to use.
+
+## Demo
+There is a demo project added to this repository, so you can see how it works.
+
+## License
 Copyright (c) 2019 COVISOFT INCOPORATION
 
 Author : mrrobo1510
