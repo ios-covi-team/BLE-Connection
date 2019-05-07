@@ -14,7 +14,7 @@
 - iOS Deployment target 10.0 and above
 - Support Swift and Objective-C
 
-## Edit Service and Characteric UUID
+## Edit Service and Characteristic UUID
 - Check BLEDefines.h
 
 ## How to extract to framework
